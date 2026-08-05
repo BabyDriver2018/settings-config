@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "name": "XLIV_cajero.jordi",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "altenar",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": true
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "XLIV_cajero.jordi",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "altenar",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": true
+        }
+      ],
+      "validate_identity": true
+    }
+  ]
+}
