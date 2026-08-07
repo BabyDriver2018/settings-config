@@ -20,8 +20,48 @@
       ],
       "validate_identity": true
     },
+     {
+      "name": "BSVV_cajero1.test",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
     {
-      "name": "XLIV_cajero.jordi",
+      "name": "XLEC_cajero1.test",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "altenar",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": true
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "XLIV_cajero.villa2",
       "verticals": [
         {
           "category": "virtual",
