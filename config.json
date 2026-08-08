@@ -98,6 +98,46 @@
         }
       ],
       "validate_identity": true
+    },
+    {
+      "name": "XLEC_Cjtest.usd",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "altenar",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": true
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "XLEC_CjTestsp",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "altenar",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": true
+        }
+      ],
+      "validate_identity": true
     }
   ]
 }
