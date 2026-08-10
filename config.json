@@ -59,7 +59,7 @@
         }
       ],
       "validate_identity": true
-    }
+    },
     {
       "name": "BSVV_cajero2.test",
       "verticals": [
