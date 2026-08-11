@@ -79,6 +79,26 @@
         }
       ],
       "validate_identity": true
+    },
+     {
+      "name": "WINP_cajero1.test",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
     }
   ]
 }
