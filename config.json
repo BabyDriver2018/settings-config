@@ -201,6 +201,50 @@
         }
       ],
       "validate_identity": true
+    },
+    {
+      "name": "ACPE_cj.AciertalaTestPe",
+      "verticals": [
+        {
+          "category": "virtual",
+          "provider": "grv_2026",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "provider": "horses",
+          "status": true
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "ACPE_T01AciertalaTest",
+      "verticals": [
+        {
+          "category": "virtual",
+          "provider": "grv_2026",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "provider": "horses",
+          "status": true
+        }
+      ],
+      "validate_identity": true
     }
   ]
 }
