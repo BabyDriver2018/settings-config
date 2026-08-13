@@ -165,7 +165,8 @@
       "verticals": [
         {
           "category": "virtual",
-          "status": false
+          "provider": "grv_2026",
+          "status": true
         },
         {
           "category": "sportbook",
