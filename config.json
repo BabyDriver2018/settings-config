@@ -180,6 +180,7 @@
       ],
       "validate_identity": true
     },
+    
     {
       "name": "FBET_cajero1.test",
       "verticals": [
@@ -388,6 +389,108 @@
     },
     {
       "name": "BSVD_TbetswingtestUSD",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "BSVD",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "BSVV",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "WINP",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "ACPE",
+      "verticals": [
+        {
+          "category": "virtual",
+          "provider": "grv_2026",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "provider": "horses",
+          "status": true
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "FBET",
       "verticals": [
         {
           "category": "virtual",
