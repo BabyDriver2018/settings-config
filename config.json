@@ -20,7 +20,7 @@
       ],
       "validate_identity": true
     },
-     {
+    {
       "name": "BSVV_cajero1.test",
       "verticals": [
         {
@@ -42,6 +42,86 @@
     },
     {
       "name": "BSVV_cajero2.test_3",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "BSVV_betswingtestVES",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "BSVV_betswingtestUSD",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "BSVV_TbetswingtestVES",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "BSVV_TbetswingtestUSD",
       "verticals": [
         {
           "category": "virtual",
