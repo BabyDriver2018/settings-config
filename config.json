@@ -92,8 +92,14 @@
         },
         {
           "category": "sportbook",
-          "provider": "betsw3",
+          "provider": "betsw3_2024",
           "view": "1",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3_v2",
+          "view": "2",
           "status": true
         },
         {
