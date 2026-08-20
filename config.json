@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "name": "XLIV",
-      "verticals": [
-        {
-          "category": "virtual",
-          "status": true
-        },
-        {
-          "category": "sportbook",
-          "provider": "first",
-          "view": "3",
-          "status": true
-        },
-        {
-          "category": "hipicas",
-          "status": true
-        }
-      ],
-      "validate_identity": true
-    },
-    {
       "name": "BSVD",
       "verticals": [
         {
@@ -111,7 +91,55 @@
       "validate_identity": true
     },
     {
+      "name": "ACEC",
+      "verticals": [
+        {
+          "category": "virtual",
+          "provider": "grv_2026",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "2",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "provider": "horses",
+          "status": true
+        }
+      ],
+      "validate_identity": true
+    },
+    {
       "name": "FBET",
+      "verticals": [
+        {
+          "category": "virtual",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "3",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "FBMM",
       "verticals": [
         {
           "category": "virtual",
