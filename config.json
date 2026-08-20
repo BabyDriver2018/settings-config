@@ -10,7 +10,7 @@
         {
           "category": "sportbook",
           "provider": "first",
-          "view": "altenar",
+          "view": "3",
           "status": true
         },
         {
@@ -31,7 +31,7 @@
         {
           "category": "sportbook",
           "provider": "first",
-          "view": "1",
+          "view": "3",
           "status": true
         },
         {
@@ -52,7 +52,7 @@
         {
           "category": "sportbook",
           "provider": "first",
-          "view": "1",
+          "view": "3",
           "status": true
         },
         {
@@ -72,7 +72,7 @@
         {
           "category": "sportbook",
           "provider": "first",
-          "view": "1",
+          "view": "3",
           "status": true
         },
         {
@@ -120,7 +120,7 @@
         {
           "category": "sportbook",
           "provider": "first",
-          "view": "1",
+          "view": "3",
           "status": true
         },
         {
