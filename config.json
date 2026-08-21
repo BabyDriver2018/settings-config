@@ -157,6 +157,27 @@
         }
       ],
       "validate_identity": true
+    },
+    {
+      "name": "BAPE",
+      "verticals": [
+        {
+          "category": "virtual",
+          "provider": "grv_2026",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "first",
+          "view": "3",
+          "status": false
+        },
+        {
+          "category": "hipicas",
+          "status": false
+        }
+      ],
+      "validate_identity": true
     }
   ]
 }
