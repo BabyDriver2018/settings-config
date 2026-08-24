@@ -19,7 +19,7 @@
           "status": false
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     },
     {
       "name": "BSVV",
@@ -40,7 +40,7 @@
           "status": false
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     },
     {
       "name": "WINP",
@@ -60,7 +60,7 @@
           "status": false
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     },
     {
       "name": "ACPE",
@@ -116,7 +116,7 @@
           "status": true
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     },
     {
       "name": "FBET",
@@ -136,7 +136,7 @@
           "status": false
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     },
     {
       "name": "FBMM",
@@ -156,7 +156,7 @@
           "status": false
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     },
     {
       "name": "BAPE",
@@ -177,7 +177,7 @@
           "status": false
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     }
   ]
 }
