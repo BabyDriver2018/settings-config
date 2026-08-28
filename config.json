@@ -190,6 +190,27 @@
         }
       ],
       "validate_identity": false
+    },
+    {
+      "name": "BAPB",
+      "verticals": [
+        {
+          "category": "virtual",
+          "provider": "grv_2026",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "status": true
+        }
+      ],
+      "validate_identity": false
     }
   ]
 }
