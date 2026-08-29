@@ -66,6 +66,10 @@
       "name": "ACPE",
       "verticals": [
         {
+          "category": "home",
+          "status": true
+        },
+        {
           "category": "virtual",
           "provider": "grv_2026",
           "status": true
@@ -105,6 +109,10 @@
     {
       "name": "ACEC",
       "verticals": [
+        {
+          "category": "home",
+          "status": true
+        },
         {
           "category": "virtual",
           "provider": "grv_2026",
