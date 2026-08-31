@@ -255,7 +255,7 @@
       "verticals": [
         {
           "category": "virtual",
-          "status": false
+          "status": true
         },
         {
           "category": "sportbook",
@@ -265,7 +265,7 @@
         },
         {
           "category": "hipicas",
-          "status": false
+          "status": true
         }
       ],
       "validate_identity": false
