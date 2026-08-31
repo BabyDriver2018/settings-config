@@ -148,10 +148,50 @@
           "status": true
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     },
     {
       "name": "ACPB",
+      "verticals": [
+        {
+          "category": "virtual",
+          "provider": "grv_2026",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "2",
+          "status": true
+        },
+        {
+          "category": "inlive",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "inlive",
+          "provider": "betsw3",
+          "view": "2",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "provider": "horses",
+          "status": true
+        }
+      ],
+      "validate_identity": true
+    },
+    {
+      "name": "ACBB",
       "verticals": [
         {
           "category": "virtual",
