@@ -228,7 +228,7 @@
           "status": true
         }
       ],
-      "validate_identity": true
+      "validate_identity": false
     },
     {
       "name": "FBET",
