@@ -324,11 +324,11 @@
           "category": "sportbook",
           "provider": "betsw3",
           "view": "1",
-          "status": true
+          "status": false
         },
         {
           "category": "hipicas",
-          "status": true
+          "status": false
         }
       ],
       "validate_identity": false
