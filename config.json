@@ -368,7 +368,7 @@
         {
           "category": "hipicas",
           "provider": "horses",
-          "status": false
+          "status": true
         }
       ],
       "validate_identity": false
