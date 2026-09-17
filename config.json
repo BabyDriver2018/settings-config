@@ -339,7 +339,7 @@
         {
           "category": "virtual",
           "provider": "grv_2026",
-          "status": true
+          "status": false
         },
         {
           "category": "sportbook",
