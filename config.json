@@ -412,6 +412,46 @@
         }
       ],
       "validate_identity": false
+    },
+    {
+      "name": "DTPP",
+      "verticals": [
+        {
+          "category": "virtual",
+          "provider": "grv_2026",
+          "status": false
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "2",
+          "status": true
+        },
+        {
+          "category": "inlive",
+          "provider": "betsw3",
+          "view": "1",
+          "status": true
+        },
+        {
+          "category": "inlive",
+          "provider": "betsw3",
+          "view": "2",
+          "status": true
+        },
+        {
+          "category": "hipicas",
+          "provider": "horses",
+          "status": false
+        }
+      ],
+      "validate_identity": false
     }
   ]
 }
