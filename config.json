@@ -194,6 +194,10 @@
       "name": "ACBB",
       "verticals": [
         {
+          "category": "home",
+          "status": true
+        },
+        {
           "category": "virtual",
           "provider": "grv_2026",
           "status": true
@@ -228,7 +232,7 @@
           "status": true
         }
       ],
-      "validate_identity": false
+      "validate_identity": true
     },
     {
       "name": "FBET",
