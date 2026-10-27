@@ -570,6 +570,12 @@
           "status": true
         },
         {
+          "category": "sportbook",
+          "provider": "betsw3",
+          "view": "3",
+          "status": true
+        },
+        {
           "category": "inlive",
           "provider": "betsw3",
           "view": "1",
@@ -579,6 +585,12 @@
           "category": "inlive",
           "provider": "betsw3",
           "view": "2",
+          "status": true
+        },
+        {
+          "category": "inlive",
+          "provider": "betsw3",
+          "view": "3",
           "status": true
         },
         {
